@@ -1,3 +1,3 @@
-Images can only be used for testing, all of them are collected from internet.  
-Just execute ***RemoveWatermark.py*** and wait for a while you will get the watermark-free images in the ***TestImages\output*** folder.  
+Images can only be used for testing, all of them are collected from the Internet.  
+Just execute ***RemoveWatermark.py*** and wait for a while you will get the watermark-free images in the ***TestImages\output*** folder(This is a initial version so it runs very slow).  
 note: It was designed only for grey scale images, with black content and grey watermarks, and you can change the boundary value of watermark color
